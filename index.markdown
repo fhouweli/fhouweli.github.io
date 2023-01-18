@@ -5,9 +5,7 @@
 layout: home
 ---
 
-# nanoforms
-
-Simple web app for simple surveys.
+Nanoforms is a simple web app for simple surveys.
 
 Nanoforms is a collection of php scripts you can upload to your hosted server in order to deploy questionnaires and obtain responses.
 
